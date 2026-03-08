@@ -1,7 +1,9 @@
 ## Hi there 👋
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ....
-- 💬 Ask me about ...
+my name is mahalaxmi , and i'm trained artificial intelligence and machine learining intrested in all things python & Data science
+
+- 🌱 I’m currently learning Data science
+- 🔭 I’m reacentiy built a project online flower website
+
 
 
 <!--
